@@ -1,4 +1,4 @@
-In the folder Ml And AL lab final there are two parts. In the solution folder there are the solution of the follwing problems and in video folder there are the explanation of the solutions. 
+In the folder "Ml And AL lab final" there are two parts: solution and video. In the solution folder there are the solution of the follwing problems and in video folder there are the explanation of the solutions. 
 
 Problem 1:
 
